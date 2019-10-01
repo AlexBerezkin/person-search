@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27b7b361.chunk.css",
-    "main.js": "/static/js/main.b4636942.chunk.js",
-    "main.js.map": "/static/js/main.b4636942.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.721448b8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.721448b8.js.map",
-    "static/js/2.f55bae4f.chunk.js": "/static/js/2.f55bae4f.chunk.js",
-    "static/js/2.f55bae4f.chunk.js.map": "/static/js/2.f55bae4f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5c5ace38b6e139662d180db42acd7c68.js": "/precache-manifest.5c5ace38b6e139662d180db42acd7c68.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.27b7b361.chunk.css.map": "/static/css/main.27b7b361.chunk.css.map"
+    "main.css": "/AlexBerezkin/person-search/static/css/main.287cc33b.chunk.css",
+    "main.js": "/AlexBerezkin/person-search/static/js/main.5e1f3835.chunk.js",
+    "main.js.map": "/AlexBerezkin/person-search/static/js/main.5e1f3835.chunk.js.map",
+    "runtime-main.js": "/AlexBerezkin/person-search/static/js/runtime-main.30ee1bc3.js",
+    "runtime-main.js.map": "/AlexBerezkin/person-search/static/js/runtime-main.30ee1bc3.js.map",
+    "static/js/2.f55bae4f.chunk.js": "/AlexBerezkin/person-search/static/js/2.f55bae4f.chunk.js",
+    "static/js/2.f55bae4f.chunk.js.map": "/AlexBerezkin/person-search/static/js/2.f55bae4f.chunk.js.map",
+    "index.html": "/AlexBerezkin/person-search/index.html",
+    "precache-manifest.c25048b11654952d0a4072daa589fdef.js": "/AlexBerezkin/person-search/precache-manifest.c25048b11654952d0a4072daa589fdef.js",
+    "service-worker.js": "/AlexBerezkin/person-search/service-worker.js",
+    "static/css/main.287cc33b.chunk.css.map": "/AlexBerezkin/person-search/static/css/main.287cc33b.chunk.css.map"
   }
 }
