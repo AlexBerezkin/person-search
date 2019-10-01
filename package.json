@@ -2,7 +2,7 @@
   "name": "person-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlexBerezkin/person-search.git",
+  "homepage": "https://github.com/AlexBerezkin/person-search",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
