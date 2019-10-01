@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlexBerezkin/person-search.git/static/css/main.e1f5ffac.chunk.css",
-    "main.js": "/AlexBerezkin/person-search.git/static/js/main.b9414aa4.chunk.js",
-    "main.js.map": "/AlexBerezkin/person-search.git/static/js/main.b9414aa4.chunk.js.map",
-    "runtime-main.js": "/AlexBerezkin/person-search.git/static/js/runtime-main.2d221d51.js",
-    "runtime-main.js.map": "/AlexBerezkin/person-search.git/static/js/runtime-main.2d221d51.js.map",
-    "static/js/2.f55bae4f.chunk.js": "/AlexBerezkin/person-search.git/static/js/2.f55bae4f.chunk.js",
-    "static/js/2.f55bae4f.chunk.js.map": "/AlexBerezkin/person-search.git/static/js/2.f55bae4f.chunk.js.map",
-    "index.html": "/AlexBerezkin/person-search.git/index.html",
-    "precache-manifest.a38c3c9f5e430e9692941875761fcd6c.js": "/AlexBerezkin/person-search.git/precache-manifest.a38c3c9f5e430e9692941875761fcd6c.js",
-    "service-worker.js": "/AlexBerezkin/person-search.git/service-worker.js",
-    "static/css/main.e1f5ffac.chunk.css.map": "/AlexBerezkin/person-search.git/static/css/main.e1f5ffac.chunk.css.map"
+    "main.css": "/person-search/static/css/main.e1f5ffac.chunk.css",
+    "main.js": "/person-search/static/js/main.a0f3500a.chunk.js",
+    "main.js.map": "/person-search/static/js/main.a0f3500a.chunk.js.map",
+    "runtime-main.js": "/person-search/static/js/runtime-main.e274f5bb.js",
+    "runtime-main.js.map": "/person-search/static/js/runtime-main.e274f5bb.js.map",
+    "static/js/2.f55bae4f.chunk.js": "/person-search/static/js/2.f55bae4f.chunk.js",
+    "static/js/2.f55bae4f.chunk.js.map": "/person-search/static/js/2.f55bae4f.chunk.js.map",
+    "index.html": "/person-search/index.html",
+    "precache-manifest.c907384b79ac0c50d55d7dcb9619c8a9.js": "/person-search/precache-manifest.c907384b79ac0c50d55d7dcb9619c8a9.js",
+    "service-worker.js": "/person-search/service-worker.js",
+    "static/css/main.e1f5ffac.chunk.css.map": "/person-search/static/css/main.e1f5ffac.chunk.css.map"
   }
 }
